@@ -27,19 +27,24 @@ Simple lifecycle:
 Create files -> Git add -> Git commit -> Git push 
 
 
-Scripts c
+Scripts:-
 
-### Script 1 – System Identity
-Displays system info including kernel, user, uptime.
+Script 1 – System Identity Report 
+Displays kernel version, users which are logged-in, uptime and date means the information about the Linux system. It also explains the variables use, commands substitution and output.
 
-### Script 2 – Package Inspector
-Checks whether Git is installed and prints version and license.
+Script 2 – FOSS Package Inspector
+Checks the proper installation of Git on the system, displays information of its version and license. It uses package manager commands and conditional statements.
 
-### Script 3 – Disk Auditor
-Shows permissions and disk usage of key Linux directories.
+Script 3 – Disk and Permission Auditor
+Shows disk usage, important directories of system and ownership and permisson of key Linux directories. 
 
-### Script 4 – Log Analyzer
-Counts occurrences of keywords in log files.
+Script 4 – Log File Analyzer
+It reads a log filr and count the keywords appreared in it. It uses loops, text processing and also command-line arguments.
 
-### Script 5 – Manifesto Generator
-Generates a personalized open source statement.
+Script 5 – The Open source Manifesto Generator
+This script generates personalized open source statement saved to a text file and also asks the user questions.
+
+To run the scripts:-
+1. Open terminal in Linux.
+2. Make scripts executable by using ".sh".
+3. Run the scripts ./(name of script).sh
