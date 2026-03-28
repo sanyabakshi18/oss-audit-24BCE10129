@@ -47,6 +47,7 @@ It reads a log filr and count the keywords appreared in it. It uses loops, text 
 
 Script 5 – The Open source Manifesto Generator
 This script generates personalized open source statement saved to a text file and also asks the user questions.
+![Script 5 output](script5_output.png).
 
 To run the scripts:-
 1. Open terminal in Linux.
