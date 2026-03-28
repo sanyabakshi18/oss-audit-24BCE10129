@@ -33,5 +33,5 @@ echo "License : GPL (Linux kernel)"
 In Bash, echo means we want to print the line to the terminal.
 
 Output:
-![Script1 output](Screenshot 2026-03-28 141403.png)
+![Script1 output](script1_output.png)
 
