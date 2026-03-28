@@ -35,6 +35,7 @@ Displays kernel version, users which are logged-in, uptime and date means the in
 
 Script 2 – FOSS Package Inspector
 Checks the proper installation of Git on the system, displays information of its version and license. It uses package manager commands and conditional statements.
+![Script 2 output](script2_output.png).
 
 Script 3 – Disk and Permission Auditor
 Shows disk usage, important directories of system and ownership and permisson of key Linux directories. 
