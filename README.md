@@ -31,7 +31,7 @@ Scripts:-
 
 Script 1 – System Identity Report 
 Displays kernel version, users which are logged-in, uptime and date means the information about the Linux system. It also explains the variables use, commands substitution and output.
-![Script 1 Output](screenshots/script1_output.png)
+![Script 1 Output](script1_output.png)
 
 Script 2 – FOSS Package Inspector
 Checks the proper installation of Git on the system, displays information of its version and license. It uses package manager commands and conditional statements.
