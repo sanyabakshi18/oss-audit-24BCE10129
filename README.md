@@ -31,23 +31,23 @@ Scripts:-
 
 Script 1 – System Identity Report 
 Displays kernel version, users which are logged-in, uptime and date means the information about the Linux system. It also explains the variables use, commands substitution and output.
-![Script 1 Output](script1_output.png)
+
 
 Script 2 – FOSS Package Inspector
 Checks the proper installation of Git on the system, displays information of its version and license. It uses package manager commands and conditional statements.
-![Script 2 output](script2_output.png).
+
 
 Script 3 – Disk and Permission Auditor
 Shows disk usage, important directories of system and ownership and permisson of key Linux directories. 
-![Script 3 output](script3_output.png).
+
 
 Script 4 – Log File Analyzer
 It reads a log filr and count the keywords appreared in it. It uses loops, text processing and also command-line arguments.
-![Script 4 output](script4_output.png).
+
 
 Script 5 – The Open source Manifesto Generator
 This script generates personalized open source statement saved to a text file and also asks the user questions.
-![Script 5 output](script5_output.png).
+
 
 To run the scripts:-
 1. Open terminal in Linux.
