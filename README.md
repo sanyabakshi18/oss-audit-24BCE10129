@@ -43,6 +43,7 @@ Shows disk usage, important directories of system and ownership and permisson of
 
 Script 4 – Log File Analyzer
 It reads a log filr and count the keywords appreared in it. It uses loops, text processing and also command-line arguments.
+![Script 4 output](script4_output.png).
 
 Script 5 – The Open source Manifesto Generator
 This script generates personalized open source statement saved to a text file and also asks the user questions.
