@@ -39,6 +39,7 @@ Checks the proper installation of Git on the system, displays information of its
 
 Script 3 – Disk and Permission Auditor
 Shows disk usage, important directories of system and ownership and permisson of key Linux directories. 
+![Script 3 output](script3_output.png).
 
 Script 4 – Log File Analyzer
 It reads a log filr and count the keywords appreared in it. It uses loops, text processing and also command-line arguments.
